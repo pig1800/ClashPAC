@@ -67972,6 +67972,8 @@ rules:
     - 'DOMAIN-SUFFIX,local.pexcn.me,DIRECT'
     - 'DOMAIN-SUFFIX,ite1024.com,DIRECT'
     - 'DOMAIN-SUFFIX,logs.gettoby.com,DIRECT'
+	- 'DOMAIN-KEYWORD,akamai,DIRECT'
+	- 'DOMAIN-SUFFIX,steamcontent.com,DIRECT'
     - 'DOMAIN-KEYWORD,amazon,select'
     - 'DOMAIN-KEYWORD,google,select'
     - 'DOMAIN-KEYWORD,gmail,select'
